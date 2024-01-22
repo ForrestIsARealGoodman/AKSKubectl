@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: github
+  description: An example of a Backstage application.
+  # Example for optional annotations
+  # annotations:
+     github.com/project-slug: rtkwlf/backstage
+  #  backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: forrest.xiong@arcticwolf.com
+  lifecycle: experimental

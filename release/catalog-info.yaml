@@ -4,7 +4,7 @@ metadata:
   name: github
   description: An example of a Backstage application.
   # Example for optional annotations
-  # annotations:
+  annotations:
      github.com/project-slug: rtkwlf/backstage
   #  backstage.io/techdocs-ref: dir:.
 spec:
